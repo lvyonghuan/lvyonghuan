@@ -4,26 +4,12 @@ Cogito ergo sum
 
 令人感叹。
 
-<!--
-**lvyonghuan/lvyonghuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 - 在学习Go、C、Python
 - AIGC爱好者
 - 开发+产品，快进到我和我自己对线
 - 一般通过科幻爱好者
 - 生物学、社会学与哲学爱好者
+- 电脑里不止有一款架空历史模组
 ```
 I don’t want to be an engineer
 I tried so hard and got so far
