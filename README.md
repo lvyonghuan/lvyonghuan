@@ -1,15 +1,16 @@
 ### Hello there
 
-Cogito ergo sum
+`我就从零点起步，向最美好的前途，向最美好的前途，哪怕是漫长的路。`
 
 令人感叹。
 
-- 在学习Go、C、Python
+- 在学习Go、C、Python、vue
 - AIGC爱好者
-- 开发+产品，快进到我和我自己对线
+- 懂一点后端+野路子前端+半吊子产品+还没学过的网工≈全菜工程师
 - 一般通过科幻爱好者
 - 生物学、社会学与哲学爱好者
 - 电脑里不止有一款架空历史模组
+- 并不是计科爷
 ```
 I don’t want to be an engineer
 I tried so hard and got so far
