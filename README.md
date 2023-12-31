@@ -1,13 +1,13 @@
 ### Hello there
 
-`我就从零点起步，向最美好的前途，向最美好的前途，哪怕是漫长的路。`
+`Nous voulons faire la lumière,Malgré le masque de la nuit.`
 
 令人感叹。
 
-- 在学习Go、C、Python、vue
+- 在学习Go、C、~~Python、vue~~、Rust
 - AIGC爱好者
 - 懂一点后端+野路子前端+半吊子产品+还没学过的网工≈全菜工程师
-- 一般通过科幻爱好者
+- 一般通过幻协接锅人
 - 生物学、社会学与哲学爱好者
 - 电脑里不止有一款架空历史模组
 - 并不是计科爷
