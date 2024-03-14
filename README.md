@@ -2,6 +2,8 @@
 
 `Nous voulons faire la lumière,Malgré le masque de la nuit.`
 
+`A beginning is the time for taking the most delicate care that the balances are correct.`
+
 令人感叹。
 
 - 在学习Go、C、Python、~~Rust~~、Front End、CPP
