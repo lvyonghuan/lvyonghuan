@@ -4,6 +4,8 @@
 
 `A beginning is the time for taking the most delicate care that the balances are correct.`
 
+`Alle Menschen werden Brueder wo dein sanfter Fluegel weilt.`
+
 令人感叹。
 
 - 在学习Go、C、Python、~~Rust~~、Front End、CPP
