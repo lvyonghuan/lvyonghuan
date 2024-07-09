@@ -8,7 +8,7 @@
 
 令人感叹。
 
-- 在学习Go、C、Python、~~Rust~~、Front End、CPP
+- 在学习Go、C、Python、~~Rust~~、Front End、CPP、JVAV
 - AIGC爱好者
 - 懂一点后端+野路子前端+半吊子产品+还在学的网工+根本不懂的算法≈全菜工程师
 - 一般通过幻协前接锅人
