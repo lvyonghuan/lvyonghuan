@@ -1,15 +1,21 @@
 ### Hello there
+~~General Kenobi!~~
+
+---
 
 `Nous voulons faire la lumière,Malgré le masque de la nuit.`
 
 `A beginning is the time for taking the most delicate care that the balances are correct.`
 
+`Alle Menschen werden Brueder wo dein sanfter Fluegel weilt.`
+
 令人感叹。
 
-- 在学习Go、C、Python、~~Rust~~、Front End、CPP
+- 在学习Go、C、Python、~~Rust~~、Front End、CPP、JVAV
 - AIGC爱好者
-- 懂一点后端+野路子前端+半吊子产品+还没学过的网工≈全菜工程师
-- 一般通过幻协接锅人
+- ~~懂一点后端+野路子前端+半吊子产品+还在学的网工+根本不懂的算法≈全菜工程师~~
+- 产品开发混合物，左脑产品右脑开发
+- 一般通过幻协前接锅人
 - 生物学、社会学与哲学爱好者
 - 电脑里不止有一款架空历史模组
 - 并不是计科爷
