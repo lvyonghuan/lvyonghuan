@@ -21,37 +21,11 @@
 - 并不是计科爷
 - 生活>>技术
 ```
-I don’t want to be an engineer
-I tried so hard and got so far
-And now I can’t decide
-All my life I’ve given my career
-These numbers in my head
-keep on spinning round and round yeah
-I can only guess
-What’s right? Should I stay Three more years
-Just to waste away?
-Become a slave to all these numbers
-It’s overdue, all this stress
-Yet I say I’m fine...
-
-
-Working overtime
-Tryna finish this in time
-Got myself into this mess
-Can we really pass this test, yeah
-XYZ yeah teach me how to breathe
-I’m suffocating deep inside
-I can’t deny just want to quit
-All my life I failed...
-To be the one to meet those expectations
-All my life I tried...
-Now all this stress to fill those answers
-ABC finding all these numbers, numbers
-Integrate differentiate
-It’s getting old, yeah
-543
-Finding all these numbers, numbers
-Calculate, no mistake
-It’s getting old, yeah
+Night falls; the traveler must pass down village streets, between the houses with yellow- lit
+windows, and on out into the darkness of the fields. Each alone, they go west or north, towards
+the mountains. They go on. They leave Omelas, they walk ahead into the darkness, and they
+do not come back. The place they go towards is a place even less imaginable to most of us than
+the city of happiness. I cannot describe it at all. It is possible that it does not exist. But they seem
+to know where they are going, the ones who walk away from Omelas.
 ```
-———— [Study](https://www.youtube.com/watch?v=zMlH7RH6psw)
+———— [The Ones Who Walk Away From Omelas](https://shsdavisapes.pbworks.com/f/Omelas.pdf)
