@@ -9,6 +9,8 @@
 
 `Alle Menschen werden Brueder wo dein sanfter Fluegel weilt.`
 
+`Die Gedanken sind frei!`
+
 令人感叹。
 
 - 在学习Go、C、Python、~~Rust~~、Front End、CPP、JVAV
