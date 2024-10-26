@@ -11,6 +11,8 @@
 
 `Die Gedanken sind frei!`
 
+`時代の掛け橋　精一杯の命`
+
 令人感叹。
 
 - 在学习Go、C、Python、~~Rust~~、Front End、CPP、JVAV
