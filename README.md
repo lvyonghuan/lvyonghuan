@@ -17,9 +17,9 @@
 
 令人感叹。
 
-- 在学习Go、C、Python、~~Rust~~、Front End、CPP、JVAV
+- Go、Front End、CPP、C Sharp
 - AIGC爱好者
-- ~~懂一点后端+野路子前端+半吊子产品+还在学的网工+根本不懂的算法≈全菜工程师~~
+- 全菜工程师
 - 产品、开发、文案
 - 一般通过幻协前接锅人
 - 生物学、社会学与哲学爱好者
@@ -34,4 +34,4 @@ do not come back. The place they go towards is a place even less imaginable to m
 the city of happiness. I cannot describe it at all. It is possible that it does not exist. But they seem
 to know where they are going, the ones who walk away from Omelas.
 ```
-———— [The Ones Who Walk Away From Omelas](https://shsdavisapes.pbworks.com/f/Omelas.pdf)
+———— [The Ones Who Walk Away From Omelas](https://www.ceremade.dauphine.fr/~ekeland/lectures/Mathematical%20Models%20in%20Social%20Sciences/ursula-k-le-guin-the-ones-who-walk-away-from-omelas.pdf)
