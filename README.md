@@ -35,3 +35,5 @@ the city of happiness. I cannot describe it at all. It is possible that it does 
 to know where they are going, the ones who walk away from Omelas.
 ```
 ———— [The Ones Who Walk Away From Omelas](https://www.ceremade.dauphine.fr/~ekeland/lectures/Mathematical%20Models%20in%20Social%20Sciences/ursula-k-le-guin-the-ones-who-walk-away-from-omelas.pdf)
+
+![永恒燃烧的理想主义](img/伊苏林迪竹节虫.jpg)
