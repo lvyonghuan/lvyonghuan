@@ -15,6 +15,8 @@
 
 `El bien más preciado es la libertad, hay que defenderla con fe y valor.`
 
+`情况太复杂 现实太残酷了 谁知道忍受的极限到了会是什么样的结果`
+
 令人感叹。
 
 - Go、Front End、CPP、C Sharp
